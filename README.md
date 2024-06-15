@@ -1,5 +1,7 @@
 # Alibaba Academy
 
+Here are the answers to the Alibaba exam
+
 1. [Enterprise Networking Solutions(Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-enterprise-networking-solutions-exam.html)
 2. [Product Capabilities and Details: PolarDB(Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-product-capabilities-and-details-polardb-exam.html)
 3. [Next Generation Database Architectures(Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-next-generation-database-architectures-exam.html)
@@ -18,5 +20,13 @@
 16. [Alibaba Cloud MaxCompute-Basic Knowledge (Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-cloud-maxcompute-basic-knowledge-exam.html)
 17. [Apsara Clouder: Beginner's Guide to MySQL](https://teamscloud.blogspot.com/2024/04/apsara-clouder-beginners-guide-to-mysql.html)
 18. [Alibaba Cloud DataWorks-Basic Knowledge(free exam)](https://teamscloud.blogspot.com/2024/01/alibaba-dataworks-basic-knowledge.html)
+19. [Alibaba Cloud Academy Online Conference - Day 2 - Quiz](https://teamscloud.blogspot.com/)
+20. [Alibaba Cloud IT Governance(Exam)](https://teamscloud.blogspot.com/)
+21. [Full Managed Alibaba Cloud Database](https://teamscloud.blogspot.com/)
+22. [How Dingtalk Can Help Your Business During the Covid-19 Situation(Exam)](https://teamscloud.blogspot.com/)
+23. [Secure and Fast - Alibaba Cloud Elastic Compute Service (ECS)](https://teamscloud.blogspot.com/)
+24. [Stable and Robust - Network and Security(Exam)](https://teamscloud.blogspot.com/)
+25. [Using Alibaba Cloud Elasticsearch for Log Monitoring(Exam)](https://teamscloud.blogspot.com/)
+
 
 ### You can find some answers by visiting <a href="https://teamscloud.blogspot.com/">TeamsCloud</a>
