@@ -1,6 +1,6 @@
-# Alibaba Academy Exam
+# Alibaba Academy Exam Answers
 
-Here are the answers to the Alibaba exam
+Here are the answers to the Alibaba Exam Answers
 
 1. [Enterprise Networking Solutions(Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-enterprise-networking-solutions-exam.html)
 2. [Product Capabilities and Details: PolarDB(Exam)](https://teamscloud.blogspot.com/2024/05/alibaba-product-capabilities-and-details-polardb-exam.html)
@@ -27,6 +27,25 @@ Here are the answers to the Alibaba exam
 23. [Secure and Fast - Alibaba Cloud Elastic Compute Service (ECS)](https://teamscloud.blogspot.com/)
 24. [Stable and Robust - Network and Security(Exam)](https://teamscloud.blogspot.com/)
 25. [Using Alibaba Cloud Elasticsearch for Log Monitoring(Exam)](https://teamscloud.blogspot.com/)
+26. [Alibaba Cloud Core Products Overview(Exam) Answer](https://teamscloud.blogspot.com/)
+27. [Building a Stable and Robust Network Infrastructure(Exam) Answer](https://teamscloud.blogspot.com/)
+28. [Modern Databases with Alibaba Cloud(Exam) Answer](https://teamscloud.blogspot.com/)
+29. [Secure Your Cloud Infrastructure (Exam) Answer](https://teamscloud.blogspot.com/)
+30. [Scaling Your Cloud Infrastructure(Exam) Answer](https://teamscloud.blogspot.com/)
+31. [Implementing Alibaba Cloud Container Service(Exam) Answer](https://teamscloud.blogspot.com/)
+32. [Building Cloud Native Application(Exam) Answer](https://teamscloud.blogspot.com/)
+33. [Managing & Migrating Multi Cloud Infrastructures(Exam) Answer](https://teamscloud.blogspot.com/)
+34. [Alibaba Cloud Networking Solutions Overview(Exam) Answer](https://teamscloud.blogspot.com/)
+35. [Automation with Terraform and Helm(Exam) Answer](https://teamscloud.blogspot.com/)
+36. [Security solution on container service(Exam) Answer](https://teamscloud.blogspot.com/)
+37. [Serverless: Past,Present and Future(Exam) Answer](https://teamscloud.blogspot.com/)
+38. [Cloud Native Solution Overview(Exam) Answer](https://teamscloud.blogspot.com/)
+39. [Global Acceleration Soluiton Overview(Exam) Answer](https://teamscloud.blogspot.com/)
+40. [AnalyticsDB: a Realtime Cloud-native Data Warehouse(Exam) Answer](https://teamscloud.blogspot.com/)
+41. [Enterprise-grade Infrastructure Hybrid Cloud Solution(Exam) Answer](https://teamscloud.blogspot.com/)
+42. [Alibaba Cloud Security Overview(Exam) Answer](https://teamscloud.blogspot.com/)
+43. [Alibaba Technology Stack on Big Data and AI(Exam) Answer](https://teamscloud.blogspot.com/)
+44. [PolarDB and Database Utilities(Exam) Answer](https://teamscloud.blogspot.com/)
 
 
 ### You can find some answers by visiting <a href="https://teamscloud.blogspot.com/">TeamsCloud</a>
